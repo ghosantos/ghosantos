@@ -1,43 +1,43 @@
-## Olá! Eu sou o Gustavo Oliveira 👋
+<h2 align="left">Hello World, I'm Gustavo. Welcome to my profile!</h2>
 
-💻 Sou estudante de Análise e Desenvolvimento de Sistemas e entusiasta do desenvolvimento Java, com foco em back-end.<br>
-🚀 Estou dedicado a aprender e crescer na área, estudando Java, Spring Boot, SQL e boas práticas de programação.
+###
 
-### 🛠️ **Minhas principais tecnologias**
-
-- **Java** - Principal foco de estudo.
-- **Spring Boot** - Para criação de APIs REST.
-- **PostgreSQL** - Consultas, suporte e base para análise de dados.
-
-### 🌱 **Em aprendizado contínuo**
-- Java e Orientação a Objetos.
-- Desenvolvimento de APIs REST com Spring Boot.
-- Banco de Dados relacionais (MySQL, PostgreSQL).
-- Controle de versão com Git.
-
-## Contato
-  <div> 
-  <a href = "mailto:gustavosantos0628@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-oliveira-1477922b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghosantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghosantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 💻Minhas Tecnologias
+###
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Jeff-Jv" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Jef-Sp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />   
-  <img align="center" alt="Jeff-Wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV6c29ybjhqbXRlZjN4b2dvZTJiMDVlYzZ6Y2U2MWxzaGppMWtqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif"  />
+
+### 🛠️ Technologies and Skills
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-##
+###
 
-<div>
-<a>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ghosantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=shadow_green#gh-dark-mode-only&locale=en&hide_border=false" />
-</a>
-<a>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosantos&locale=en&hide_title=false&layout=compact&theme=shadow_green#gh-dark-mode&hide_border=false" />
-</a>
+<div> 
+  <a href="mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-oliveira-1477922b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+###
+
+
+
+
+
 
